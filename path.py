@@ -9,7 +9,7 @@ from random import *
 from time import sleep
 import sys
 
-#Box class
+#Box classa
 class Box(Rectangle):
 
     #Static Vars
